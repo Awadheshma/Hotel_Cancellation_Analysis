@@ -10,7 +10,9 @@ The goal is to identify the reason for the higher cancellation and providing rec
 
 ### Hypothesis
 1- Higher price leads to higher cancellation.
+
 2- Longer waiting time while booking leads to cancellation
+
 3- Majority Customer are coming from Offline Travel Agents
 
 ### Insights
