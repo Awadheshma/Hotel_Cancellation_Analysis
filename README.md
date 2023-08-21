@@ -14,10 +14,10 @@ The goal is to identify the reason for the higher cancellation and providing rec
 3- Majority Customer are coming from Offline Travel Agents
 
 ### Insights
-1- Combined in Resort and City hotels successful bookings are 63% and 37% of bookings are being cancelled.
-2- Cancellation Rate in Resort hotel is 13% less compared to City Hotel which is 40%.
-3- December & January are experiencing lowest booking and also highest cancellation.
-4- Online Travel Agents (MMT, Goibibo etc.) are contributing total of 46% of bookings & from those 45% are being cancelled.
-5- High Price directly leading to the most cancellation.
-6- Portugal country is facing the highest cancellation rate 77%
+1-  Combined in Resort and City hotels successful bookings are 63% and 37% of bookings are being cancelled.
+2-  Cancellation Rate in Resort hotel is 13% less compared to City Hotel which is 40%.
+3-  December & January are experiencing lowest booking and also highest cancellation.
+4-  Online Travel Agents (MMT, Goibibo etc.) are contributing total of 46% of bookings & from those 45% are being cancelled.
+5-  High Price directly leading to the most cancellation.
+6-  Portugal country is facing the highest cancellation rate 77%
 
